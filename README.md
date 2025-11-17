@@ -18,27 +18,27 @@ Projeto desenvolvido para a Global Solution de Front-End e Web Development, do c
 ---
 
 ## 1. Resumo do Projeto
-[cite_start]Este projeto é uma **Single Page Application (SPA)** [cite: 15] [cite_start]desenvolvida em React, com o objetivo de simular uma plataforma web colaborativa, semelhante ao LinkedIn, focada no tema "O Futuro do Trabalho"[cite: 9, 12].
+Este projeto é uma **Single Page Application (SPA)** desenvolvida em React, com o objetivo de simular uma plataforma web colaborativa, semelhante ao LinkedIn, focada no tema "O Futuro do Trabalho".
 
-[cite_start]A aplicação exibe perfis de profissionais fictícios [cite: 15][cite_start], carregados a partir de um arquivo `db.json` local[cite: 27]. [cite_start]O principal objetivo é permitir a visualização e busca desses perfis, conectando competências e pessoas[cite: 9].
+A aplicação exibe perfis de profissionais fictícios, carregados a partir de um arquivo `db.json` local. O principal objetivo é permitir a visualização e busca desses perfis, conectando competências e pessoas.
 
 ## 2. Funcionalidades
 A plataforma implementa os seguintes requisitos:
 
-* [cite_start]**Listagem de Perfis:** Exibição dos profissionais em formato de *Cards*[cite: 18].
-* [cite_start]**Modal de Detalhes:** Ao clicar em um card, um modal interativo é aberto com informações completas do profissional (experiência, formação, soft skills, etc.)[cite: 19].
-* [cite_start]**Busca Dinâmica:** Sistema de busca funcional que filtra os perfis em tempo real por nome, cargo ou tecnologia[cite: 25].
-* [cite_start]**Dark Mode:** A aplicação possui um *toggle* para alternar entre o tema claro e escuro, com persistência no *localStorage*[cite: 28].
-* [cite_start]**Botões Funcionais:** Os botões de "Recomendar" e "Enviar Mensagem" no modal são funcionais e disparam alertas ao usuário[cite: 24].
-* [cite_start]**Design Responsivo:** A interface se adapta a diferentes tamanhos de tela, utilizando Tailwind CSS[cite: 26].
+* **Listagem de Perfis:** Exibição dos profissionais em formato de *Cards*.
+* **Modal de Detalhes:** Ao clicar em um card, um modal interativo é aberto com informações completas do profissional (experiência, formação, soft skills, etc.).
+* **Busca Dinâmica:** Sistema de busca funcional que filtra os perfis em tempo real por nome, cargo ou tecnologia.
+* **Dark Mode:** A aplicação possui um *toggle* para alternar entre o tema claro e escuro, com persistência no *localStorage*.
+* **Botões Funcionais:** Os botões de "Recomendar" e "Enviar Mensagem" no modal são funcionais e disparam alertas ao usuário.
+* **Design Responsivo:** A interface se adapta a diferentes tamanhos de tela, utilizando Tailwind CSS.
 
 ## 3. Tecnologias Utilizadas
-* [cite_start]**React (com Vite):** Biblioteca principal para a construção da SPA[cite: 16].
-* [cite_start]**Tailwind CSS:** Framework CSS utility-first para estilização rápida e responsiva[cite: 16].
+* **React (com Vite):** Biblioteca principal para a construção da SPA.
+* **Tailwind CSS:** Framework CSS utility-first para estilização rápida e responsiva.
 * **Heroicons:** Biblioteca de ícones (para Dark Mode, Busca, etc.).
 
 ## 4. Instalação do Projeto (Passo a Passo)
-[cite_start]Para executar este projeto localmente, siga os passos abaixo[cite: 40]:
+Para executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
@@ -62,16 +62,16 @@ A plataforma implementa os seguintes requisitos:
     npm run dev
     ```
 
-[cite_start]**Nota:** A pasta `node_modules` foi omitida do envio, conforme solicitado[cite: 36]. O `npm install` é obrigatório.
+**Nota:** A pasta `node_modules` foi omitida do envio, conforme solicitado. O `npm install` é obrigatório.
 
 ## 5. Usuários e Senhas
-[cite_start]O projeto não possui sistema de autenticação ou login, portanto não existem usuários ou senhas para acesso[cite: 39].
+O projeto não possui sistema de autenticação ou login, portanto não existem usuários ou senhas para acesso.
 
 ## 6. Integrantes
 | Nome | RM |
 | :--- | :--- |
-| Guilherme Moura Gama | RM: 562162 |
-| Guilherme Ruiz Costa | RM: 563236 |
+| Guilherme Moura Gama | 562162 |
+| Guilherme Ruiz Costa | 563236 |
 
 ## 7. Link do Repositório
-* [cite_start][https://github.com/kosutaa/GS2_FRONT_WEBDEV](https://github.com/kosutaa/GS2_FRONT_WEBDEV) [cite: 42]
+* [https://github.com/kosutaa/GS2_FRONT_WEBDEV](https://github.com/kosutaa/GS2_FRONT_WEBDEV)
