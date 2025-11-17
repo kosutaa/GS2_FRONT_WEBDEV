@@ -1,0 +1,494 @@
+{
+  "perfis": [
+    {
+      "Id": 1,
+      "nome": "Ana Clara Oliveira",
+      "foto": "https://i.pravatar.cc/300?img=1",
+      "cargo": "Engenheira de Software Pleno",
+      "resumo": "Desenvolvedora backend com 5 anos de experiência em microsserviços e APIs RESTful.",
+      "localizacao": "São Paulo/SP",
+      "area": "Desenvolvimento",
+      "habilidadesTecnicas": ["React", "Node.js", "TypeScript", "AWS", "SQL"],
+      "softSkills": ["Comunicação", "Resolução de Problemas", "Mentoria"],
+      "experiencias": [
+        {
+          "empresa": "TechCorp",
+          "cargo": "Engenheira de Software Pleno",
+          "inicio": "2022-01",
+          "fim": "Atual",
+          "descricao": "Liderança técnica de squads de produtos digitais."
+        },
+        {
+          "empresa": "DevSolutions",
+          "cargo": "Desenvolvedora Júnior",
+          "inicio": "2020-05",
+          "fim": "2022-01",
+          "descricao": "Desenvolvimento de APIs para o setor financeiro."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Engenharia de Software",
+          "instituicao": "FIAP",
+          "ano": 2020
+        }
+      ],
+      "projetos": [
+        {
+          "titulo": "Plataforma de Pagamentos",
+          "link": "https://github.com",
+          "descricao": "API de microsserviços para processamento de pagamentos."
+        }
+      ],
+      "certificacoes": ["AWS Certified Developer - Associate"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Avançado"}],
+      "arealnteresses": ["IA ética", "Computação em Nuvem", "Fintech"]
+    },
+    {
+      "Id": 2,
+      "nome": "Bruno Mendes Costa",
+      "foto": "https://i.pravatar.cc/300?img=2",
+      "cargo": "UI/UX Designer Sênior",
+      "resumo": "Especialista em design de interfaces centrado no usuário e sistemas de design.",
+      "localizacao": "Florianópolis/SC",
+      "area": "Design",
+      "habilidadesTecnicas": ["Figma", "Adobe XD", "User Research", "Design System"],
+      "softSkills": ["Empatia", "Colaboração", "Pensamento Crítico"],
+      "experiencias": [
+        {
+          "empresa": "UXNow",
+          "cargo": "UI/UX Designer Sênior",
+          "inicio": "2021-03",
+          "fim": "Atual",
+          "descricao": "Criação de jornadas de usuário para aplicativos móveis."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Design Digital",
+          "instituicao": "Universidade Federal de Santa Catarina",
+          "ano": 2018
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["NN/g UX Certification"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Fluente"}],
+      "arealnteresses": ["Acessibilidade Web", "Design Inclusivo"]
+    },
+    {
+      "Id": 3,
+      "nome": "Carla Vianna",
+      "foto": "https://i.pravatar.cc/300?img=3",
+      "cargo": "Especialista em Cibersegurança",
+      "resumo": "Foco em pentest, análise de vulnerabilidades e resposta a incidentes.",
+      "localizacao": "Brasília/DF",
+      "area": "Segurança da Informação",
+      "habilidadesTecnicas": ["Pentest", "Análise Forense", "Python", "Linux"],
+      "softSkills": ["Atenção aos Detalhes", "Gestão de Crise"],
+      "experiencias": [
+        {
+          "empresa": "DefesaGov",
+          "cargo": "Analista de Segurança Sênior",
+          "inicio": "2019-01",
+          "fim": "Atual",
+          "descricao": "Proteção de infraestruturas críticas."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Segurança da Informação",
+          "instituicao": "FIAP",
+          "ano": 2019
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["OSCP", "CISSP"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Avançado"}],
+      "arealnteresses": ["Blockchain", "Privacidade de Dados"]
+    },
+    {
+      "Id": 4,
+      "nome": "Daniel Farias",
+      "foto": "https://i.pravatar.cc/300?img=4",
+      "cargo": "Cientista de Dados",
+      "resumo": "Machine Learning, análise preditiva e visualização de dados com foco em e-commerce.",
+      "localizacao": "São Paulo/SP",
+      "area": "Dados",
+      "habilidadesTecnicas": ["Python", "TensorFlow", "SQL", "Tableau"],
+      "softSkills": ["Curiosidade", "Comunicação", "Visão de Negócio"],
+      "experiencias": [
+        {
+          "empresa": "RetailZoom",
+          "cargo": "Cientista de Dados",
+          "inicio": "2022-06",
+          "fim": "Atual",
+          "descricao": "Modelos de recomendação e previsão de churn."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "MSc Data Science",
+          "instituicao": "FIAP",
+          "ano": 2021
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["AWS Certified Data Analytics"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Fluente"}, {"idioma": "Espanhol", "nivel": "Intermediário"}],
+      "arealnteresses": ["IA Generativa", "Modelagem Preditiva"]
+    },
+    {
+      "Id": 5,
+      "nome": "Eduarda Lima",
+      "foto": "https://i.pravatar.cc/300?img=5",
+      "cargo": "Desenvolvedora Front-End Júnior",
+      "resumo": "Construindo interfaces responsivas e acessíveis com React e Tailwind.",
+      "localizacao": "Recife/PE",
+      "area": "Desenvolvimento",
+      "habilidadesTecnicas": ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+      "softSkills": ["Colaboração", "Aprendizado Rápido", "Criatividade"],
+      "experiencias": [
+        {
+          "empresa": "Porto Digital (Freela)",
+          "cargo": "Dev Front-End",
+          "inicio": "2023-01",
+          "fim": "Atual",
+          "descricao": "Desenvolvimento de landing pages para startups."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Análise e Desenvolvimento de Sistemas",
+          "instituicao": "Faculdade Senac PE",
+          "ano": 2024
+        }
+      ],
+      "projetos": [
+        {
+          "titulo": "Website Portfólio",
+          "link": "https://github.com",
+          "descricao": "Portfólio pessoal responsivo."
+        }
+      ],
+      "certificacoes": [],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Intermediário"}],
+      "arealnteresses": ["Acessibilidade Web", "Web Design"]
+    },
+    {
+      "Id": 6,
+      "nome": "Fábio Nunes",
+      "foto": "https://i.pravatar.cc/300?img=6",
+      "cargo": "Arquiteto de Soluções Cloud",
+      "resumo": "Especialista em arquitetura multi-cloud (AWS, Azure) e DevOps.",
+      "localizacao": "Belo Horizonte/MG",
+      "area": "Infraestrutura",
+      "habilidadesTecnicas": ["AWS", "Azure", "Terraform", "Kubernetes", "Docker"],
+      "softSkills": ["Visão Estratégica", "Liderança", "Negociação"],
+      "experiencias": [
+        {
+          "empresa": "CloudWay",
+          "cargo": "Arquiteto de Soluções",
+          "inicio": "2018-02",
+          "fim": "Atual",
+          "descricao": "Desenho de soluções de migração para nuvem."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Ciência da Computação",
+          "instituicao": "UFMG",
+          "ano": 2017
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["AWS Certified Solutions Architect", "Azure Administrator Associate"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Avançado"}],
+      "arealnteresses": ["DevOps", "FinOps", "Serverless"]
+    },
+    {
+      "Id": 7,
+      "nome": "Gabriela Santos",
+      "foto": "https://i.pravatar.cc/300?img=7",
+      "cargo": "Gerente de Projetos (Agile)",
+      "resumo": "Scrum Master e PMO com foco em metodologias ágeis para times de software.",
+      "localizacao": "Curitiba/PR",
+      "area": "Gestão",
+      "habilidadesTecnicas": ["Scrum", "Kanban", "Jira", "Gestão de Riscos"],
+      "softSkills": ["Liderança Servidora", "Comunicação", "Organização"],
+      "experiencias": [
+        {
+          "empresa": "AgileNow",
+          "cargo": "Scrum Master",
+          "inicio": "2020-07",
+          "fim": "Atual",
+          "descricao": "Facilitadora de rituais ágeis e remoção de impedimentos."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Administração",
+          "instituicao": "PUC-PR",
+          "ano": 2018
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["PSM I", "PMP"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Avançado"}],
+      "arealnteresses": ["Agilidade em escala", "Gestão de Pessoas"]
+    },
+    {
+      "Id": 8,
+      "nome": "Heloísa Martins",
+      "foto": "https://i.pravatar.cc/300?img=8",
+      "cargo": "Especialista em QA",
+      "resumo": "Foco em automação de testes (Selenium, Cypress) e integração contínua.",
+      "localizacao": "São Paulo/SP",
+      "area": "Qualidade",
+      "habilidadesTecnicas": ["Cypress", "Selenium", "Jest", "CI/CD", "Jira"],
+      "softSkills": ["Atenção aos Detalhes", "Pensamento Crítico"],
+      "experiencias": [
+        {
+          "empresa": "QualitySystems",
+          "cargo": "QA Sênior",
+          "inicio": "2019-05",
+          "fim": "Atual",
+          "descricao": "Implementação de pipelines de testes automatizados."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Sistemas de Informação",
+          "instituicao": "Universidade Presbiteriana Mackenzie",
+          "ano": 2018
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["CTFL"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Intermediário"}],
+      "arealnteresses": ["Testes de Performance", "Cultura DevOps"]
+    },
+    {
+      "Id": 9,
+      "nome": "Igor Nascimento",
+      "foto": "https://i.pravatar.cc/300?img=9",
+      "cargo": "Desenvolvedor Mobile (Flutter)",
+      "resumo": "Desenvolvedor híbrido com experiência em publicação de apps.",
+      "localizacao": "Salvador/BA",
+      "area": "Desenvolvimento",
+      "habilidadesTecnicas": ["Flutter", "Dart", "Firebase", "NativeScript"],
+      "softSkills": ["Adaptabilidade", "Resolução de Problemas"],
+      "experiencias": [
+        {
+          "empresa": "AppFactory",
+          "cargo": "Desenvolvedor Mobile Pleno",
+          "inicio": "2021-06",
+          "fim": "Atual",
+          "descricao": "Desenvolvimento de apps para iOS e Android com Flutter."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Sistemas de Informação",
+          "instituicao": "UFBA",
+          "ano": 2020
+        }
+      ],
+      "projetos": [],
+      "certificacoes": [],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Intermediário"}],
+      "arealnteresses": ["IoT", "Realidade Aumentada"]
+    },
+    {
+      "Id": 10,
+      "nome": "Juliana Pereira",
+      "foto": "https://i.pravatar.cc/300?img=10",
+      "cargo": "Analista de BI",
+      "resumo": "Extração e transformação de dados (ETL) e criação de dashboards em Power BI.",
+      "localizacao": "Rio de Janeiro/RJ",
+      "area": "Dados",
+      "habilidadesTecnicas": ["Power BI", "SQL Server", "ETL", "DAX"],
+      "softSkills": ["Comunicação", "Capacidade Analítica"],
+      "experiencias": [
+        {
+          "empresa": "DataInsights",
+          "cargo": "Analista de Business Intelligence",
+          "inicio": "2022-01",
+          "fim": "Atual",
+          "descricao": "Criação de dashboards para a diretoria comercial."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Estatística",
+          "instituicao": "UERJ",
+          "ano": 2021
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["Microsoft Certified: Power BI Data Analyst"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Intermediário"}],
+      "arealnteresses": ["Data Storytelling", "Big Data"]
+    },
+    {
+      "Id": 11,
+      "nome": "Lucas Almeida",
+      "foto": "https://i.pravatar.cc/300?img=11",
+      "cargo": "Engenheiro de DevOps",
+      "resumo": "Automatização de infraestrutura (IaC) e otimização de pipelines CI/CD.",
+      "localizacao": "São Paulo/SP",
+      "area": "Infraestrutura",
+      "habilidadesTecnicas": ["Terraform", "Ansible", "Jenkins", "AWS"],
+      "softSkills": ["Colaboração", "Visão Sistêmica"],
+      "experiencias": [
+        {
+          "empresa": "Fintech Pag",
+          "cargo": "Engenheiro de DevOps Sênior",
+          "inicio": "2020-01",
+          "fim": "Atual",
+          "descricao": "Gerenciamento de ambientes Kubernetes."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Redes de Computadores",
+          "instituicao": "FIAP",
+          "ano": 2019
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["Terraform Associate", "AWS DevOps Engineer"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Avançado"}],
+      "arealnteresses": ["SRE", "Observabilidade"]
+    },
+    {
+      "Id": 12,
+      "nome": "Mariana Torres",
+      "foto": "https://i.pravatar.cc/300?img=12",
+      "cargo": "Especialista em Marketing Digital",
+      "resumo": "Gestão de tráfego pago (Google/Meta Ads) e estratégias de SEO.",
+      "localizacao": "Porto Alegre/RS",
+      "area": "Marketing",
+      "habilidadesTecnicas": ["Google Ads", "Meta Ads", "SEO", "Google Analytics"],
+      "softSkills": ["Criatividade", "Análise de Dados", "Persuasão"],
+      "experiencias": [
+        {
+          "empresa": "Boost Mkt",
+          "cargo": "Analista de Performance Sênior",
+          "inicio": "2019-03",
+          "fim": "Atual",
+          "descricao": "Otimização de ROAS e campanhas de aquisição."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Publicidade e Propaganda",
+          "instituicao": "PUC-RS",
+          "ano": 2018
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["Google Ads Certified"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Avançado"}],
+      "arealnteresses": ["Growth Hacking", "Inbound Marketing"]
+    },
+    {
+      "Id": 13,
+      "nome": "Rafael Gomes",
+      "foto": "https://i.pravatar.cc/300?img=13",
+      "cargo": "Desenvolvedor Full-Stack Pleno",
+      "resumo": "Experiência em todo o ciclo de vida do produto, do front (React) ao back (Python/Django).",
+      "localizacao": "Belo Horizonte/MG",
+      "area": "Desenvolvimento",
+      "habilidadesTecnicas": ["React", "Python", "Django", "PostgreSQL"],
+      "softSkills": ["Versatilidade", "Autonomia", "Gestão de Tempo"],
+      "experiencias": [
+        {
+          "empresa": "Startup Health",
+          "cargo": "Full-Stack Developer",
+          "inicio": "2021-02",
+          "fim": "Atual",
+          "descricao": "Desenvolvimento da plataforma de telemedicina."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Engenharia de Computação",
+          "instituicao": "INATEL",
+          "ano": 2020
+        }
+      ],
+      "projetos": [],
+      "certificacoes": [],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Avançado"}],
+      "arealnteresses": ["HealthTech", "Processamento de Imagens"]
+    },
+    {
+      "Id": 14,
+      "nome": "Sofia Andrade",
+      "foto": "https://i.pravatar.cc/300?img=14",
+      "cargo": "Product Owner",
+      "resumo": "Definição de visão de produto e priorização de backlog com base em valor de negócio.",
+      "localizacao": "São Paulo/SP",
+      "area": "Gestão",
+      "habilidadesTecnicas": ["Jira", "Priorização (MoSCoW)", "User Stories", "Roadmap"],
+      "softSkills": ["Negociação", "Visão de Produto", "Comunicação"],
+      "experiencias": [
+        {
+          "empresa": "Banco Digital X",
+          "cargo": "Product Owner",
+          "inicio": "2020-08",
+          "fim": "Atual",
+          "descricao": "PO da squad de Onboarding e Aquisição."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Administração de Empresas",
+          "instituicao": "FGV",
+          "ano": 2018
+        }
+      ],
+      "projetos": [],
+      "certificacoes": ["CSPO"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Fluente"}],
+      "arealnteresses": ["Design Thinking", "Fintech"]
+    },
+    {
+      "Id": 15,
+      "nome": "Thiago Rocha",
+      "foto": "https://i.pravatar.cc/300?img=15",
+      "cargo": "Engenheiro de Machine Learning",
+      "resumo": "Especialista em MLOps e deploy de modelos de linguagem (LLMs).",
+      "localizacao": "Campinas/SP",
+      "area": "Dados",
+      "habilidadesTecnicas": ["Python", "PyTorch", "Kubeflow", "MLOps", "AWS Sagemaker"],
+      "softSkills": ["Pesquisa", "Didática", "Resolução de Problemas"],
+      "experiencias": [
+        {
+          "empresa": "IA Labs",
+          "cargo": "ML Engineer",
+          "inicio": "2022-03",
+          "fim": "Atual",
+          "descricao": "Colocando modelos de IA em produção."
+        }
+      ],
+      "formacao": [
+        {
+          "curso": "Mestrado em Inteligência Artificial",
+          "instituicao": "UNICAMP",
+          "ano": 2022
+        }
+      ],
+      "projetos": [
+        {
+          "titulo": "Paper sobre LLMs",
+          "link": "https://github.com",
+          "descricao": "Pesquisa sobre otimização de LLMs."
+        }
+      ],
+      "certificacoes": ["AWS Machine Learning Specialty"],
+      "idiomas": [{"idioma": "Inglês", "nivel": "Fluente"}],
+      "arealnteresses": ["IA Generativa", "LLM Ops"]
+    }
+  ]
+}
